@@ -1,2 +1,1 @@
-# jape
-just testing jest.js
+**Jape - 'Tis but a jape, brethren!'**
